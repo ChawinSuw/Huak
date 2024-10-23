@@ -76,3 +76,4 @@ coverage/
 .env.production
 .env.development
 .env.staging
+.expo/packager-info.json
